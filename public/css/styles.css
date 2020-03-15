@@ -1,0 +1,16 @@
+body{
+    background-color: #A3E0EF;
+    text-align: center;
+}
+h1{
+    font-family: 'Baloo Chettan 2', cursive;
+}
+p{
+    font-family: 'Lora', serif;
+    padding: 10px 250px 10px 250px;
+    text-align: center;
+}
+img{
+    border: 3px solid white;
+    border-radius: 10%;
+}

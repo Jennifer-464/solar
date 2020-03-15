@@ -1,0 +1,3 @@
+node_modules/
+
+; in this way, node_modules won't be pushed into GitHub
